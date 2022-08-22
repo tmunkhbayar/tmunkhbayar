@@ -1,6 +1,6 @@
 👋 I'm a business and economics student
 
-🌱 I'm interested in web development
+🌱 Interested in web development
 
 <!---
 tmunkhbayar/tmunkhbayar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
