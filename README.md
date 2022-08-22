@@ -1,4 +1,4 @@
-👋 Hi my name is Temulen Munkhbayar and I'm a business and economics student
+👋 I'm a business and economics student
 
 🌱 I'm interested in web development
 
