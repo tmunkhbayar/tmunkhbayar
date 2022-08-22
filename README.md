@@ -1,4 +1,4 @@
-👋 I'm a business and economics student
+👋 I'm an economics student
 
 🌱 Interested in web development
 
